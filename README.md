@@ -1,7 +1,4 @@
-Names and Surnames:
-Xheni Hoxha
-Sidra Shegaj 
-Erik Draçi
+
 
 Project Description:
 A simple application for selecting clothes with basic error handlings and data loading functionality.
